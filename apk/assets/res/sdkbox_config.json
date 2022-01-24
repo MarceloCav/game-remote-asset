@@ -1,0 +1,151 @@
+{
+    "android": {
+        "OneSignal": {
+            "sound": true, 
+            "vibrate": true, 
+            "project_number": "905471033649", 
+            "debug": true, 
+            "notifications_when_active": true, 
+            "id": "6b14d3dd-7186-4d25-a062-5243b32a5f73"
+        }, 
+        "Firebase": {},
+        "Facebook": {
+            "debug": false, 
+            "app_id": "2832897770085419"
+        }, 
+        "Share": {
+            "platforms": {
+                "Facebook": {},
+                "Twitter": {
+                    "params": {
+                        "secret": "gq1VJCZ0kuehltMz71ILp1sdEzVGtQ7VbcHYX0hh022TSThc8b",
+                        "key": "yo5ICCTvozFqqqAYUn5tq6zxa"
+                    }
+                }
+            }
+        }, 
+        "iap": {
+            "items": {
+                "Diamonds_300": {
+                    "type": "consumable", 
+                    "id": "com.kpgame.pokerbros.diamonds.300"
+                }, 
+                "Diamonds_1218": {
+                    "type": "consumable", 
+                    "id": "com.kpgame.pokerbros.diamonds.1218"
+                }, 
+                "Diamonds_60": {
+                    "type": "consumable", 
+                    "id": "com.kpgame.pokerbros.diamonds.60"
+                }, 
+                "Diamonds_2988": {
+                    "type": "consumable", 
+                    "id": "com.kpgame.pokerbros.diamonds.2988"
+                }, 
+                "Diamonds_6468": {
+                    "type": "consumable", 
+                    "id": "com.kpgame.pokerbros.diamonds.6468"
+                }, 
+                "Diamonds_780": {
+                    "type": "consumable", 
+                    "id": "com.kpgame.pokerbros.diamonds.780"
+                },
+                "Diamonds_600": {
+                    "type": "consumable",
+                    "id": "com.kpgame.pokerbros.diamonds.600"
+                },
+                "Diamonds_1300": {
+                    "type": "consumable",
+                    "id": "com.kpgame.pokerbros.diamonds.1300"
+                }
+            }, 
+            "enabled": true, 
+            "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWQKV+cFK/1P8rwenYjhcxdyDRAyixeoDIGgWw2ACgpiJ2naSsRoDkV6ZS5Clwk811Tl9t7Djng8gtUaHbT9d+H4MDkxOrzXAz0augE6iRGhVjdM9pwk7ne0IdtC4Uku7yrR/A5PYOZSst6pLQ8xoVyGNSbUfZq5a7eQxj+akZkaWTAdUw7ZycEog8wsHoJnJNxuQhJkkgagyXfoletsG/jsXXrkA/Bjgjugi5iUPuY6lw+6OVv7ZDmJD2sVnKrVl2c3ktu+0+lqSQdrMAzcc/F7GATsmY05Exjj2/jUviTEbtudv43u4JziVGbhZFd5XAQSYToHDEX8/68U1fYi0QIDAQAB"
+        }
+    }, 
+    "ios": {
+        "OneSignal": {
+            "debug": false, 
+            "id": "6b14d3dd-7186-4d25-a062-5243b32a5f73",
+            "auto_register": true
+        }, 
+        "Firebase": {},
+        "Facebook": {
+            "debug": false, 
+            "url_scheme_suffix": "", 
+            "app_id": "2832897770085419"
+        }, 
+        "Share": {
+            "platforms": {
+                "Facebook": {},
+                "Twitter": {
+                    "params": {
+                        "secret": "gq1VJCZ0kuehltMz71ILp1sdEzVGtQ7VbcHYX0hh022TSThc8b",
+                        "key": "yo5ICCTvozFqqqAYUn5tq6zxa"
+                    }
+                }
+            }
+        }, 
+        "iap": {
+            "items": {
+                "Diamonds_300": {
+                    "type": "consumable", 
+                    "id": "com.kpgame.PokerBros.diamonds.300"
+                }, 
+                "Diamonds_1218": {
+                    "type": "consumable", 
+                    "id": "com.kpgame.PokerBros.diamonds.1218"
+                }, 
+                "Diamonds_60": {
+                    "type": "consumable", 
+                    "id": "com.kpgame.PokerBros.diamonds.60"
+                }, 
+                "Diamonds_2988": {
+                    "type": "consumable", 
+                    "id": "com.kpgame.PokerBros.diamonds.2988"
+                }, 
+                "Diamonds_6468": {
+                    "type": "consumable", 
+                    "id": "com.kpgame.PokerBros.diamonds.6468"
+                }, 
+                "Diamonds_780": {
+                    "type": "consumable", 
+                    "id": "com.kpgame.PokerBros.diamonds.780"
+                },
+                "Diamonds_600": {
+                    "type": "consumable",
+                    "id": "com.kpgame.PokerBros.diamonds.600"
+                },
+                "Diamonds_1300": {
+                    "type": "consumable",
+                    "id": "com.kpgame.PokerBros.diamonds.1300"
+                },
+                "Diamonds_145": {
+                    "type": "consumable",
+                    "id": "com.kpgame.PokerBros.diamonds.145"
+                },
+                "Diamonds_380": {
+                    "type": "consumable",
+                    "id": "com.kpgame.PokerBros.diamonds.380"
+                },
+                "Diamonds_760": {
+                    "type": "consumable",
+                    "id": "com.kpgame.PokerBros.diamonds.760"
+                },
+                "Diamonds_1288": {
+                    "type": "consumable",
+                    "id": "com.kpgame.PokerBros.diamonds.1288"
+                },
+                "Diamonds_3368": {
+                    "type": "consumable",
+                    "id": "com.kpgame.PokerBros.diamonds.3368"
+                },
+                "Diamonds_4588": {
+                    "type": "consumable",
+                    "id": "com.kpgame.PokerBros.diamonds.4588"
+                }
+            }, 
+            "enabled": true
+        }
+    }
+}
